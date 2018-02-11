@@ -16,6 +16,7 @@
 		B693498D202FAD4100CF11FD /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B693498C202FAD4100CF11FD /* SettingsViewController.swift */; };
 		B693498F202FAD9400CF11FD /* TrophyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B693498E202FAD9400CF11FD /* TrophyViewController.swift */; };
 		B6934991202FAD9E00CF11FD /* MissionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6934990202FAD9E00CF11FD /* MissionViewController.swift */; };
+		B6D3A56F202FDD65001FAC00 /* KDCircularProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6D3A56E202FDD65001FAC00 /* KDCircularProgress.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		B693498C202FAD4100CF11FD /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		B693498E202FAD9400CF11FD /* TrophyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrophyViewController.swift; sourceTree = "<group>"; };
 		B6934990202FAD9E00CF11FD /* MissionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionViewController.swift; sourceTree = "<group>"; };
+		B6D3A56E202FDD65001FAC00 /* KDCircularProgress.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = KDCircularProgress.swift; path = "../../../../../KDCircularProgress-master/KDCircularProgress/KDCircularProgress.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 			isa = PBXGroup;
 			children = (
 				B6934976202F735100CF11FD /* AppDelegate.swift */,
+				B6D3A56E202FDD65001FAC00 /* KDCircularProgress.swift */,
 				B693497A202F735100CF11FD /* Main.storyboard */,
 				B693497D202F735100CF11FD /* Assets.xcassets */,
 				B693497F202F735100CF11FD /* LaunchScreen.storyboard */,
@@ -154,6 +157,7 @@
 				B6934991202FAD9E00CF11FD /* MissionViewController.swift in Sources */,
 				B693498F202FAD9400CF11FD /* TrophyViewController.swift in Sources */,
 				B693498D202FAD4100CF11FD /* SettingsViewController.swift in Sources */,
+				B6D3A56F202FDD65001FAC00 /* KDCircularProgress.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
